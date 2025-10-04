@@ -37,9 +37,3 @@ Built by Chanxi, guided by Smoljames courses.
 
 ---
 
-## 🚀 Getting Started  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/YOUR_USERNAME/pokedex-app.git
-cd pokedex-app
